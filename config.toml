@@ -1,4 +1,4 @@
-baseURL = "http://hugo.10086ng.com/"
+baseURL = "https://hugo.10086ng.com/"
 title = "Docs Demo"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
